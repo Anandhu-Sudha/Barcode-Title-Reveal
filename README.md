@@ -9,11 +9,11 @@ After a lot of thinking about the title display as a part of inauguration, this 
 
 Before 👇
 
-<image src = "https://github.com/Anandhu-Sudha/Barcode-Title-Reveal/blob/b8478a8c827190e270fd19fada85c7808052bf87/pictures/before.png" width="700" height="450"/>
+![img alt](https://github.com/Anandhu-Sudha/Barcode-Title-Reveal/blob/b8478a8c827190e270fd19fada85c7808052bf87/pictures/before.png)
 
 After 👇
 
-<image src = "https://github.com/Anandhu-Sudha/Barcode-Title-Reveal/blob/b8478a8c827190e270fd19fada85c7808052bf87/pictures/after.png" width="700" height="450"/>
+![img alt](https://github.com/Anandhu-Sudha/Barcode-Title-Reveal/blob/b8478a8c827190e270fd19fada85c7808052bf87/pictures/after.png)
 
 Video 👇
 
