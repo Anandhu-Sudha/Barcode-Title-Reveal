@@ -1,5 +1,5 @@
 # Barcode-Title-Reveal
-Barcode to Title formation during inauguration.
+Barcode to Title formation during inauguration
 
 #throwback-april-2024
 
